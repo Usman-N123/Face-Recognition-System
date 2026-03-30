@@ -72,4 +72,31 @@ A production-ready, highly accurate Face-Based Image Retrieval System. The syste
 
 ## License
 
-MIT License. Feel free to modify and build upon this foundation.
+This project is licensed under a **Custom Non-Commercial License**.
+
+### You are allowed to:
+
+* Use the code for personal and educational purposes
+* Modify and distribute the code
+* Share it with others (with proper attribution)
+
+### You are NOT allowed to:
+
+* Use this code for commercial purposes
+* Sell this project or any derivative work
+* Use it in any product or service that generates revenue
+
+### Attribution Required
+
+You must give appropriate credit to: **Muhammad Usman**
+
+### Commercial Use
+
+If you want to use this project commercially, you must obtain permission.
+
+Contact: [usmannaeem350@gmail.com](mailto:usmannaeem350@gmail.com)
+
+---
+
+> ⚠️ This is **not an open-source license** as it restricts commercial use.
+
