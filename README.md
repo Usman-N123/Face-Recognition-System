@@ -1,6 +1,6 @@
-# Theme Park Face Recognition System
+# Face Recognition System
 
-A production-ready, highly accurate Face-Based Image Retrieval System built for theme parks. The system automatically indexes photos dropped into a watch folder and allows users to find all their photos (including group photos) by matching their face via a webcam capture or an uploaded image.
+A production-ready, highly accurate Face-Based Image Retrieval System. The system automatically indexes photos dropped into a watch folder and allows users to find all their photos (including group photos) by matching their face via a webcam capture or an uploaded image.
 
 ## Overview
 
@@ -20,8 +20,7 @@ A production-ready, highly accurate Face-Based Image Retrieval System built for 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd "theme park"
+   git clone https://github.com/Usman-N123/Face-Recognition-System.git
    ```
 
 2. **Create and activate a virtual environment:**
@@ -56,7 +55,7 @@ A production-ready, highly accurate Face-Based Image Retrieval System built for 
 3. **Find Your Photos:**
    Navigate to `http://localhost:8000` in your web browser. 
    - Choose **Open Camera** to snap a quick photo of your face, or select **Upload** to provide a reference image from your computer.
-   - Click **Find My Images** to retrieve a gallery of all theme park photos containing your face.
+   - Click **Find My Images** to retrieve a gallery of all photos containing your face.
 
 ## Project Architecture
 
